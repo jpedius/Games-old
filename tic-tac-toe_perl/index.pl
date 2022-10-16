@@ -12,3 +12,7 @@ use 5.010;
 
 print "Hello World\n";
 
+for (my $i=0; $i <= 9; $i++) {
+   print "$i\n";
+}
+
